@@ -1,0 +1,12 @@
+*.tsv
+/vv
+/vk
+/trouw
+/telegraaf
+/parool
+/nrc
+/limburgs_dagblad
+/leeuwarder_courant
+/algemeen_handelsblad
+get_missing.py
+.DS_Store
